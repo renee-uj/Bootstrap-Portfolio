@@ -1,3 +1,27 @@
 * {
 border: solid pink 2px;
 }
+
+/* Work section */
+
+.largeItem {
+    height: 300px;
+}
+
+.mediumItem {
+    height: 200px;
+}
+
+.smallItem {
+    height: 150px;
+}
+
+/* Skill section */
+.Container {
+    display: flex;
+    justify-content: center;
+}
+
+.wrap {
+    flex-wrap: wrap;
+}
