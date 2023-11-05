@@ -27,13 +27,3 @@ border: solid pink 2px;
 .smallItem {
     height: 150px;
 }
-
-/* Skill section */
-.Container {
-    display: flex;
-    justify-content: center;
-}
-
-.wrap {
-    flex-wrap: wrap;
-}
