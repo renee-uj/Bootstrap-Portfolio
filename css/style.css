@@ -1,5 +1,17 @@
-* {
+/* * {
 border: solid pink 2px;
+} */
+
+/* Hero section */
+
+#Welcome {
+    display: flex;
+    flex-direction: column;
+}
+
+.rounded {
+    height: 250px;
+    
 }
 
 /* Work section */
