@@ -8,7 +8,7 @@ Bootstrap has helped my understanding and consolidation of CSS and HTML. Moving 
 
 ## Usage 
 
-The portfolio looks like this ![screenshot of portfolio](./images/Web%20capture_7-11-2023_23309_127.0.0.1.jpeg) and can be found here
+The portfolio looks like this ![screenshot of portfolio](./images/Web%20capture_7-11-2023_23309_127.0.0.1.jpeg)
 
 ## License
 
